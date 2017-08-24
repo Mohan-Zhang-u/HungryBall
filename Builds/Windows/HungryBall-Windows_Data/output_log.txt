@@ -1,0 +1,33 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 850M (ID=0x1391)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Platform assembly: I:\UnityProjects\HungryBall - Copy\Builds\Windows\HungryBall-Windows_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading I:\UnityProjects\HungryBall - Copy\Builds\Windows\HungryBall-Windows_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: I:\UnityProjects\HungryBall - Copy\Builds\Windows\HungryBall-Windows_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading I:\UnityProjects\HungryBall - Copy\Builds\Windows\HungryBall-Windows_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: I:\UnityProjects\HungryBall - Copy\Builds\Windows\HungryBall-Windows_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading I:\UnityProjects\HungryBall - Copy\Builds\Windows\HungryBall-Windows_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: I:\UnityProjects\HungryBall - Copy\Builds\Windows\HungryBall-Windows_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading I:\UnityProjects\HungryBall - Copy\Builds\Windows\HungryBall-Windows_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: I:\UnityProjects\HungryBall - Copy\Builds\Windows\HungryBall-Windows_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading I:\UnityProjects\HungryBall - Copy\Builds\Windows\HungryBall-Windows_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: I:\UnityProjects\HungryBall - Copy\Builds\Windows\HungryBall-Windows_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading I:\UnityProjects\HungryBall - Copy\Builds\Windows\HungryBall-Windows_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: I:\UnityProjects\HungryBall - Copy\Builds\Windows\HungryBall-Windows_Data\Managed\System.dll (this message is harmless)
+Platform assembly: I:\UnityProjects\HungryBall - Copy\Builds\Windows\HungryBall-Windows_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.019 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.002144 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 18bc -> priority: 1 
+  Thread -> id: 31a4 -> priority: 1 
+  Thread -> id: 1654 -> priority: 1 
+  Thread -> id: 3be8 -> priority: 1 
