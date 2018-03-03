@@ -10,5 +10,4 @@ Move around to collect yellow particles.
 
 You can set the speed of the ball freely!
 
-![alt text](https://github.com/Mohan-Zhang-u/HungryBall/blob/master/Imgs/4IUgKy.png =100x20)
-<img src="https://github.com/Mohan-Zhang-u/HungryBall/blob/master/Imgs/4IUgKy.png" alt="Drawing" style="width: 1920px;"/>
+<img src="https://github.com/Mohan-Zhang-u/HungryBall/blob/master/Imgs/4IUgKy.png" alt="Drawing" style="width: 1000px;"/>
